@@ -1,0 +1,5 @@
+In this project, we have done data analysis on two data sets - Network Backup dataset and Boston Housing dataset with python. The datasets are analyzed by using the data mining approaches of regression. Regression analysis is a statistical process for estimating the relationships among variables. We have studied the concepts and methods of cross- validation, regularization, random forest and neural network regression in order to predict a dependent variable present in the datasets.
+
+The "network_backup_dataset" has captured simulated traffic data on a backup system and contains information of the size of the data moved to the destination as well as the time it took for backup. Our mission was to predict the backup size of the traffic depending on the file-name, day/time of backup. Prediction models have been using Linear, Random Forest, Neural Network and Polynomial Regression.
+
+The "housing dataset" that contained the housing values of suburbs. We have employed Linear and Polynomial Regression along with other algorithms to overcome overfitting to create a predictive model that was used to estimate the value of owner-occupied homes.
